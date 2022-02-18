@@ -954,15 +954,15 @@ section.tab-section {
 }
 
 .footer-area::after {
-    background: #F3F3F5;
-    position: absolute;
-    top: 0;
-    left: 11%;
-    width: 8%;
-    height: 100%;
-    content: '';
-    background-color: #000;
-    -webkit-transform: skewX(-30deg);
+	background: #F3F3F5;
+	position: absolute;
+	top: 0;
+	left: 5%;
+	width: 16%;
+	height: 100%;
+	content: '';
+	background-color: #000;
+	-webkit-transform: skewX(-30deg);
 }
 
 .footer-left {
